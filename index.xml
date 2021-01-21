@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>TinyKuma的流水账</title>
-        <link>https://example.com/</link>
+        <link>https://atinykuma.github.io/</link>
         <description>Recent content on TinyKuma的流水账</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://atinykuma.github.io/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on TinyKuma的流水账</title>
-    <link>https://example.com/page/</link>
+    <link>https://atinykuma.github.io/page/</link>
     <description>Recent content in Pages on TinyKuma的流水账</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://atinykuma.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>https://example.com/archives/</link>
+      <link>https://atinykuma.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>https://atinykuma.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://atinykuma.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://atinykuma.github.io/about/</guid>
       <description>24岁，是学生。
 现在是2021年的1月21日，咱有了自己的第一个博客，在2020年就有搞得打算了不过到了现在才搭完。用的都是大佬们搞得现成的东西,框架用的是hugo 模板用的是jimmy大佬的stack (超级好看的模板的说 头像用的是からいさん的紲星あかり立绘 感谢大佬们🙇‍♀️。本博客部署在Github上，感觉这样可以存留时间长一点。（其实也是因为咱没有钱钱
 咱搭这个blog主要是想记录一些咱的日常吧。主要是咱没有多少社交（莫得几个经常联系的朋友所以想写点东西（惨 再者就是记录一下咱折腾过的东西www。 因为咱的语文很差，估计写出来的东西大概不能称之为“文章”，估计会像流水账一样。所以咱的博客决定叫做tinykuma的流水账了！WWW
@@ -30,10 +30,10 @@
     
     <item>
       <title>Search</title>
-      <link>https://example.com/search/</link>
+      <link>https://atinykuma.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/search/</guid>
+      <guid>https://atinykuma.github.io/search/</guid>
       <description></description>
     </item>
     
