@@ -7,11 +7,11 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://atinykuma.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>第一篇博客</title>
-        <link>https://atinykuma.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+        <title>WSL2设置代理</title>
+        <link>https://atinykuma.github.io/p/wsl2%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86/</link>
         <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://atinykuma.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+        <guid>https://atinykuma.github.io/p/wsl2%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86/</guid>
         <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;由于在某国的原因，很多包管理器、软件都需要使用代理上网，这里一般在宿主机上打开代理软件例如v2ray、ssr等，在这里总结一下WSL2中Ubuntu等软件设置代理的方法。&lt;/p&gt;
 &lt;h2 id=&#34;bashrc&#34;&gt;.bashrc&lt;/h2&gt;

@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://atinykuma.github.io/categories/wsl2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇博客</title>
-      <link>https://atinykuma.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <title>WSL2设置代理</title>
+      <link>https://atinykuma.github.io/p/wsl2%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://atinykuma.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://atinykuma.github.io/p/wsl2%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86/</guid>
       <description>前言 由于在某国的原因，很多包管理器、软件都需要使用代理上网，这里一般在宿主机上打开代理软件例如v2ray、ssr等，在这里总结一下WSL2中Ubuntu等软件设置代理的方法。
 .bashrc 因为每一次打开WSL2她的地址都是不一样的，所以不能写死一个固定的IP，要动态s获取，将代理设置写入到.bashrc中就变成了一个比较好的解决方案
 系统代理的设置 export all_proxy=http://$host_ip:{yourPort}; export http_proxy=http://$host_ip:{yourPort}; export https_proxy=http://$host_ip:{yourPort}; curl Curl 走的是系统代理
